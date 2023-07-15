@@ -20,11 +20,7 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import people01 from "./people01.png";
-import people02 from "./people02.png";
-import people03 from "./people03.png";
 import LOGO from "./Genero.png";
-import LOGIN from "./login-concept-illustration_114360-739.avif"
 import SIGNIN from "./signin.avif"
 import Faq from "./FAQ.png"
 import Failed1 from "./26.jpg"
@@ -36,7 +32,6 @@ export {
   ,Failed2,
   Failed3,
   Faq,
-  LOGIN,
   SIGNIN,
   airbnb,
   bill,
