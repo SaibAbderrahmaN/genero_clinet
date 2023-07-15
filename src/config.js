@@ -4,7 +4,7 @@ import { enUS, frFR,  arSD } from '@mui/material/locale';
 // routes
 import { PATH_DASHBOARD } from "./routes/paths";
 
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://filthy-tiara-deer.cyclic.app";
 export const defaultSettings = {
   themeMode: "dark",
   themeDirection: "ltr",

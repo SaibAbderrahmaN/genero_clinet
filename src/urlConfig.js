@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:8000";
+const baseUrl = "https://filthy-tiara-deer.cyclic.app";
 
 
 export const api = `${baseUrl}`;
