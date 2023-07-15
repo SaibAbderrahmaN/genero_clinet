@@ -1,4 +1,6 @@
 import { useEffect } from "react";
+import List from "./pages/list/List";
+
 import Home from "./pages/home/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { productInputs} from "./formSource";
