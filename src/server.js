@@ -1,5 +1,4 @@
-//export const server = "https://escraowme.cyclic.app/api/v2";
-export const server = "http://localhost:5000/api/v2";
-export const backend_url = "http://localhost:5000/";
-//export const backend_url = "https://escraowme.cyclic.app/";
-//https://escraowme.cyclic.app/api/v2
+export const server = "https://filthy-tiara-deer.cyclic.app/";
+//export const server = "http://localhost:8000/api/v2";
+//export const backend_url = "http://localhost:8000/";
+export const backend_url = "https://filthy-tiara-deer.cyclic.app/";
